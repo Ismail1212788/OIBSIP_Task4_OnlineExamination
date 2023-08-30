@@ -1,5 +1,6 @@
 # OIBSIP_Task4_OnlineExamination
-# Project is build using java under Netbeans IDE using LINUX OS
+# TASK 4 of OASIS INFOBYTE INTERNSHIP (OnlineExamination)
+# ITS DEVELOPED USING JAVA PROGRAMMING LANGUAGE USING NETBEANS IDE UNDER LINUX OS
 
 The online examination project encompasses a range of essential functionalities to ensure a seamless and efficient assessment experience. 
 It begins with a secure and user-friendly login system, providing authorized access to the examination platform. Participants have the capability 
