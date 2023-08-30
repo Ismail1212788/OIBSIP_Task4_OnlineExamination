@@ -1,0 +1,36 @@
+What is the primary keyword used to define a class in Java?
+Option 1: method
+Option 2: classDef
+Option 3: define
+Option 4: class
+Correct 4
+Which data structure follows the Last-In-First-Out (LIFO) principle?
+Option 1: Queue
+Option 2: List
+Option 3: Stack
+Option 4: Array
+Correct 3
+What is the purpose of the "static" keyword in Java?
+Option 1: It declares a variable with dynamic allocation.
+Option 2: It creates an instance of a class.
+Option 3: It indicates that a method belongs to the class rather than the instance.
+Option 4: It initializes a class as abstract.
+Correct 3
+Which loop is suitable when the number of iterations is known beforehand?
+Option 1: while loop
+Option 2: for loop
+Option 3: do-while loop
+Option 4: until loop
+Correct 2
+Which access modifier restricts a member variable or method within its own package?
+Option 1: private
+Option 2: protected
+Option 3: package-private (default)
+Option 4: public
+Correct 3
+In Java, which interface must be implemented to create a custom exception?
+Option 1: Throwable
+Option 2: Exceptional
+Option 3: CustomException
+Option 4: Serializable
+Correct 1
